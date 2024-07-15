@@ -37,7 +37,7 @@ namespace MetoFirstExample_v3
 
         private void LogToUI(string message)
         {
-            Logger.Log(message); //////////////////////// Dosyaya yazma EmirhanKARAKURT
+            Logger.Log(message); //////////////////////// Dosyaya yazma EmirhanKARAKURT TARIK ŞEREMET
 
             if (richTextBoxLogs.InvokeRequired)
             {
